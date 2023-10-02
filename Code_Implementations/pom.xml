@@ -7,6 +7,39 @@
     <groupId>org.example</groupId>
     <artifactId>Code_Implementations</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>name.remal.lombok</groupId>
+            <artifactId>name.remal.lombok.gradle.plugin</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>name.remal.lombok</groupId>
+            <artifactId>name.remal.lombok.gradle.plugin</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>name.remal.lombok</groupId>
+            <artifactId>name.remal.lombok.gradle.plugin</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>name.remal.lombok</groupId>
+            <artifactId>name.remal.lombok.gradle.plugin</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>name.remal.lombok</groupId>
+            <artifactId>name.remal.lombok.gradle.plugin</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 
 </project>
