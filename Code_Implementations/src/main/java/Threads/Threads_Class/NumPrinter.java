@@ -1,4 +1,4 @@
-package Threads_Class;
+package Threads.Threads_Class;
 
 public class NumPrinter extends Thread {
 

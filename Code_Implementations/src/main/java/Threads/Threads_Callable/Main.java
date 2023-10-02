@@ -1,4 +1,4 @@
-package Threads_Callable;
+package Threads.Threads_Callable;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -13,6 +13,7 @@ public class Main {
         Future<String> value = executorService.submit(stringPrinter);
         System.out.println(value.get());
 
+        executorService.shutdown();
 
     }
 }

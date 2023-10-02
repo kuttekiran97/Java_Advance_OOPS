@@ -1,9 +1,8 @@
-package Threads_Executors;
+package Threads.Threads_Executors;
 
-import Threads_Runnable.NumGenerator;
+import Threads.Threads_Runnable.NumGenerator;
 
 import java.util.concurrent.Executor;
-import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class Main {

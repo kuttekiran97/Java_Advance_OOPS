@@ -1,4 +1,4 @@
-package Threads_Runnable;
+package Threads.Threads_Runnable;
 
 
 public class Main {
