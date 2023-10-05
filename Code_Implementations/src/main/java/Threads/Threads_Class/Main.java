@@ -1,7 +1,7 @@
 package Threads.Threads_Class;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)   {
         System.out.println("Printed by " + Thread.currentThread().getName());
 
         NumPrinter numPrinter = new NumPrinter();
