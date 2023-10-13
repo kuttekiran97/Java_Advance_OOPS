@@ -1,8 +1,6 @@
 package Comparator_vs_Comparable.Comparator;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**  When to use Comparator : -
  * Now, suppose we want to sort movies by their rating and names as well.
@@ -27,5 +25,8 @@ public class Comparator_example {
 
         Collections.sort(list, new StudentComparator());
         System.out.println(list.toString());
+
+
+
     }
 }
