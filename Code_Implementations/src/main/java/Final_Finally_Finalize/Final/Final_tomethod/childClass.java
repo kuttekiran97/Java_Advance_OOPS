@@ -1,4 +1,4 @@
-package Final_Finally_Finalize.Final_tomethod;
+package Final_Finally_Finalize.Final.Final_tomethod;
 
 public class childClass extends parentClass{
 
