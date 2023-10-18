@@ -37,6 +37,7 @@ public class Lambda_Exp {
         int k = c.add(5,6);
         System.out.println(k);
 
+
     }
 }
 //https://www.youtube.com/watch?v=4HC_WyBSDGA
